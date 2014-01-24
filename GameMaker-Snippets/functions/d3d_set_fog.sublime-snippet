@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_set_fog(${1:enable},${2:color},${3:start},${4:end});$0]]></content> <tabTrigger>d3d_set_fog</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

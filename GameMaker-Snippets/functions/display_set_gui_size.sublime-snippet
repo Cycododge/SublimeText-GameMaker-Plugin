@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[display_set_gui_size(${1:width},${2:height});$0]]></content> <tabTrigger>display_set_gui_size</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

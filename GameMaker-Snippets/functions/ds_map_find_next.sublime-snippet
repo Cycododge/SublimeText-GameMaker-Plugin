@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_map_find_next(${1:id},${2:key});$0]]></content> <tabTrigger>ds_map_find_next</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

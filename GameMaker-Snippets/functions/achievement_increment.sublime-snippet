@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_increment(${3:ach_name},${2:value});$0]]></content> <tabTrigger>achievement_increment</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

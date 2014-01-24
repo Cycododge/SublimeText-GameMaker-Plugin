@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_destroy(${1:index});$0]]></content> <tabTrigger>ds_grid_destroy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[directory_exists(${1:dname});$0]]></content> <tabTrigger>directory_exists</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

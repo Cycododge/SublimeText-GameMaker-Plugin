@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_normal(${1:buffer},${2:nx},${3:ny},${4:nz});$0]]></content> <tabTrigger>vertex_normal</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

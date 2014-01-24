@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[dot_product(${1:x1},${2:y1},${3:x2},${4:y2});$0]]></content> <tabTrigger>dot_product</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_set_font(${1:font});$0]]></content> <tabTrigger>draw_set_font</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

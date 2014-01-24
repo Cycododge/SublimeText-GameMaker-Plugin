@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[os_version$0]]></content> <tabTrigger>os_version</tabTrigger> <description>scope:global</description> <scope>source.gml</scope> </snippet>

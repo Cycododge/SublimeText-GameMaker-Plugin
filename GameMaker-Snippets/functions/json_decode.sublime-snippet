@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[json_decode(${1:string});$0]]></content> <tabTrigger>json_decode</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

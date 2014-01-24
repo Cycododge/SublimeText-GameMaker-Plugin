@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_play_sound_at(${1:index},${2:x},${3:y},${4:z},${5:falloff_ref},${6:falloff_max},${7:falloff_factor},${8:loop},${9:priority});$0]]></content> <tabTrigger>audio_play_sound_at</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

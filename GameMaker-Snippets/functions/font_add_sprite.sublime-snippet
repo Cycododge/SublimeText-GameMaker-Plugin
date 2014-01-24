@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[font_add_sprite(${1:spr},${2:first},${3:prop},${4:sep});$0]]></content> <tabTrigger>font_add_sprite</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

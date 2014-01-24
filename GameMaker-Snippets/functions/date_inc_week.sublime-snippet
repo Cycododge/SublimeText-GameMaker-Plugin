@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_inc_week(${1:date},${2:amount});$0]]></content> <tabTrigger>date_inc_week</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

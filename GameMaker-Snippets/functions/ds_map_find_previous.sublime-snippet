@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_map_find_previous(${1:id},${2:key});$0]]></content> <tabTrigger>ds_map_find_previous</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

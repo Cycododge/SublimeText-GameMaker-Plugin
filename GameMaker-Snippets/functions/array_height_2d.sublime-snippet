@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[array_height_2d(${1:array});$0]]></content> <tabTrigger>array_height_2d</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_shift(${1:index},${2:xshift},${3:yshift});$0]]></content> <tabTrigger>path_shift</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

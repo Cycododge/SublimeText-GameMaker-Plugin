@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[win8_settingscharm_add_html_entry(${1:id},${2:name},${3:htmlpath});$0]]></content> <tabTrigger>win8_settingscharm_add_html_entry</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

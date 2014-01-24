@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sound_global_volume(${1:value});$0]]></content> <tabTrigger>sound_global_volume</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

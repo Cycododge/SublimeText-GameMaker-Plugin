@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_width(${1:string});$0]]></content> <tabTrigger>string_width</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_system_create();$0]]></content> <tabTrigger>part_system_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

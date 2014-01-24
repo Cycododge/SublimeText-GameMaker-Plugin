@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[game_save_buffer(${1:buffer});$0]]></content> <tabTrigger>game_save_buffer</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

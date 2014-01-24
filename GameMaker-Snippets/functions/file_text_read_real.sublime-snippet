@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_text_read_real(${1:fileid});$0]]></content> <tabTrigger>file_text_read_real</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

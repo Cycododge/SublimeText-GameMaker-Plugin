@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_replace_all(${1:str},${2:substr},${3:newstr});$0]]></content> <tabTrigger>string_replace_all</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

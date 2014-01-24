@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sign(${1:n});$0]]></content> <tabTrigger>sign</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

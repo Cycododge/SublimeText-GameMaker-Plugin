@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_color_rgb(${1:index},${2:rmin},${3:rmax},${4:gmin},${5:gmax},${6:bmin},${7:bmax});$0]]></content> <tabTrigger>part_type_color_rgb</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

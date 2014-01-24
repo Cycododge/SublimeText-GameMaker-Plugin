@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_exists(${1:index},${2:type});$0]]></content> <tabTrigger>ds_exists</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

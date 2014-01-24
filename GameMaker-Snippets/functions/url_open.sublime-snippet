@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[url_open(${1:url});$0]]></content> <tabTrigger>url_open</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[win8_livetile_notification_expiry(${1:expiry_time});$0]]></content> <tabTrigger>win8_livetile_notification_expiry</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[winphone_tile_icon_image(${1:fname});$0]]></content> <tabTrigger>winphone_tile_icon_image</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[font_replace_sprite(${1:index},${2:spr},${3:first},${4:prop},${5:sep});$0]]></content> <tabTrigger>font_replace_sprite</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

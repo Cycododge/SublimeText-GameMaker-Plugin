@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[iap_store_status();$0]]></content> <tabTrigger>iap_store_status</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

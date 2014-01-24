@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_set_persistent(${1:index},${2:val});$0]]></content> <tabTrigger>room_set_persistent</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[texture_set_stage(${1:stage},${2:tex});$0]]></content> <tabTrigger>texture_set_stage</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

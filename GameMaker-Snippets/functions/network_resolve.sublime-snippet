@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[network_resolve(${1:url});$0]]></content> <tabTrigger>network_resolve</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

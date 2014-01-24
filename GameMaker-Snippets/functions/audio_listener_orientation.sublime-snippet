@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_listener_orientation(${1:lookat_x},${2:lookat_y},${3:lookat_z},${4:up_x},${5:up_y},${6:up_z});$0]]></content> <tabTrigger>audio_listener_orientation</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

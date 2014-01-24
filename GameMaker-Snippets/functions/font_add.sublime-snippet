@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[font_add(${1:name},${2:size},${3:bold},${4:italic},${5:first},${6:last});$0]]></content> <tabTrigger>font_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

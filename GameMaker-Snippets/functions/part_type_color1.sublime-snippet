@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_color1(${1:index},${2:color1});$0]]></content> <tabTrigger>part_type_color1</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

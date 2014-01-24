@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_activate_all();$0]]></content> <tabTrigger>instance_activate_all</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

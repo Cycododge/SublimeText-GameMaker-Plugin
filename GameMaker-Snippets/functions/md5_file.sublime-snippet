@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[md5_file(${1:filename});$0]]></content> <tabTrigger>md5_file</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

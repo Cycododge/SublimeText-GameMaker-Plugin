@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_priority_read(${1:id},${2:str});$0]]></content> <tabTrigger>ds_priority_read</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

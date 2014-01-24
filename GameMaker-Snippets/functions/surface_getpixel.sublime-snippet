@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_getpixel(${1:index},${2:x},${3:y});$0]]></content> <tabTrigger>surface_getpixel</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

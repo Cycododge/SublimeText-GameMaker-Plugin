@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[tile_set_blend(${1:index},${2:color});$0]]></content> <tabTrigger>tile_set_blend</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

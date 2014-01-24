@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_position(${1:buffer},${2:x},${3:y});$0]]></content> <tabTrigger>vertex_position</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

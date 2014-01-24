@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_fixture_set_collision_group(${1:fixture},${2:group});$0]]></content> <tabTrigger>physics_fixture_set_collision_group</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

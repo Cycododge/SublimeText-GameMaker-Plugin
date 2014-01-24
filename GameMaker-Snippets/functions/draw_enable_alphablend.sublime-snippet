@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_enable_alphablend(${1:val});$0]]></content> <tabTrigger>draw_enable_alphablend</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

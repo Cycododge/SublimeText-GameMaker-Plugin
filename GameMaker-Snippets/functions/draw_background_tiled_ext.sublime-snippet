@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_background_tiled_ext(${1:back},${2:x},${3:y},${4:xscale},${5:yscale},${6:color},${7:alpha});$0]]></content> <tabTrigger>draw_background_tiled_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

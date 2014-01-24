@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sound_fade(${1:index},${2:value},${3:time});$0]]></content> <tabTrigger>sound_fade</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

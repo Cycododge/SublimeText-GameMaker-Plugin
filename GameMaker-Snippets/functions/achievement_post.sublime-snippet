@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_post(${1:achievement},${2:percent});$0]]></content> <tabTrigger>achievement_post</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

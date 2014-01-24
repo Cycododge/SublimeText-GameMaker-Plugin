@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_compare_datetime(${1:date1},${2:date2});$0]]></content> <tabTrigger>date_compare_datetime</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

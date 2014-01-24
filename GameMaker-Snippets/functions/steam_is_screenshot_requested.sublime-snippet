@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_is_screenshot_requested();$0]]></content> <tabTrigger>steam_is_screenshot_requested</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

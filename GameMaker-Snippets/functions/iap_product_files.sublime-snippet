@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[iap_product_files(${1:purchase_id},${2:ds_list});$0]]></content> <tabTrigger>iap_product_files</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

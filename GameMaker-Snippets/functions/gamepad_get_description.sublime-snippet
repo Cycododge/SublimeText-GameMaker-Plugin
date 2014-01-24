@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_get_description(${1:device});$0]]></content> <tabTrigger>gamepad_get_description</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

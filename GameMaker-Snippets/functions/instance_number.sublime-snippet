@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_number(${1:obj});$0]]></content> <tabTrigger>instance_number</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

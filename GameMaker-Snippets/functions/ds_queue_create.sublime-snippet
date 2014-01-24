@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_queue_create();$0]]></content> <tabTrigger>ds_queue_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

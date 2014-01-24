@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_alpha2(${1:index},${2:alpha1},${3:alpha2});$0]]></content> <tabTrigger>part_type_alpha2</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

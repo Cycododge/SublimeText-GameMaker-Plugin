@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[place_free(${1:x},${2:y});$0]]></content> <tabTrigger>place_free</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[network_destroy(${1:socket});$0]]></content> <tabTrigger>network_destroy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

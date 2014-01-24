@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_stack_push(${1:id},${2:val});$0]]></content> <tabTrigger>ds_stack_push</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_format(${1:val},${2:tot},${3:dec});$0]]></content> <tabTrigger>string_format</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

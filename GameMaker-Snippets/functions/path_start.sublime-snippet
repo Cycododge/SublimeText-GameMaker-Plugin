@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_start(${1:path},${2:speed},${3:endaction},${4:absolute});$0]]></content> <tabTrigger>path_start</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

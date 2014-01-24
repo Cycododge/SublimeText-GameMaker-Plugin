@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[window_has_focus();$0]]></content> <tabTrigger>window_has_focus</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

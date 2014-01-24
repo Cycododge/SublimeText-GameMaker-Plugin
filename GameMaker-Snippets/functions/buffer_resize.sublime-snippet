@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_resize(${1:buffer},${2:newsize});$0]]></content> <tabTrigger>buffer_resize</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

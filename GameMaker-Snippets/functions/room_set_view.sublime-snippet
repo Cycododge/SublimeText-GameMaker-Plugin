@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_set_view(${1:index},${2:vind},${3:vis},${4:xview},${5:yview},${6:wview},${7:hview},${8:xport},${9:yport},${10:wport},${11:hport},${12:hborder},${13:vborder},${14:hspeed},${15:vspeed},${16:obj});$0]]></content> <tabTrigger>room_set_view</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

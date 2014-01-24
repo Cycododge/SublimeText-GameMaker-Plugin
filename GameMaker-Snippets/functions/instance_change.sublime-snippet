@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_change(${1:obj},${2:perf});$0]]></content> <tabTrigger>instance_change</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

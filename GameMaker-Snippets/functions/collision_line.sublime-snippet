@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[collision_line(${1:x1},${2:y1},${3:x2},${4:y2},${5:obj},${6:prec},${7:notme});$0]]></content> <tabTrigger>collision_line</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

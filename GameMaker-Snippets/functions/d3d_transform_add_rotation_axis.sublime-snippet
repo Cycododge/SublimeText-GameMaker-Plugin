@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_transform_add_rotation_axis(${1:xa},${2:ya},${3:za},${4:angle});$0]]></content> <tabTrigger>d3d_transform_add_rotation_axis</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_position(${1:x},${2:y},${3:obj});$0]]></content> <tabTrigger>instance_position</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sqr(${1:val});$0]]></content> <tabTrigger>sqr</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

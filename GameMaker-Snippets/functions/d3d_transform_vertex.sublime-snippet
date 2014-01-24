@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_transform_vertex(${1:x},${2:y},${3:z});$0]]></content> <tabTrigger>d3d_transform_vertex</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

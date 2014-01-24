@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mouse_clear(${1:button});$0]]></content> <tabTrigger>mouse_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

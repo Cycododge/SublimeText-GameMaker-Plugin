@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_height_ext(${1:string},${2:sep},${3:w});$0]]></content> <tabTrigger>string_height_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

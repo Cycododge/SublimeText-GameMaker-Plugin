@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[md5_string_unicode(${1:string});$0]]></content> <tabTrigger>md5_string_unicode</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

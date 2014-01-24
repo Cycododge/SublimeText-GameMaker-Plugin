@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_set_color_write_enable(${1:red},${2:green},${3:blue},${4:alpha});$0]]></content> <tabTrigger>draw_set_color_write_enable</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

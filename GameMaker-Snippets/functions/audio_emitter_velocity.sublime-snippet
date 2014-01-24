@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_emitter_velocity(${1:emitter},${2:vx},${3:vy},${4:vz});$0]]></content> <tabTrigger>audio_emitter_velocity</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

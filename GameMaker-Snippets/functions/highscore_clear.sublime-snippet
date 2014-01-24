@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[highscore_clear();$0]]></content> <tabTrigger>highscore_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

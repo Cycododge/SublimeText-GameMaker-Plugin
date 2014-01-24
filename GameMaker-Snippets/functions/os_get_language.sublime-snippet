@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[os_get_language();$0]]></content> <tabTrigger>os_get_language</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

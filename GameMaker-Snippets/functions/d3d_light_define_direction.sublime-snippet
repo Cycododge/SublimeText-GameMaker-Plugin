@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_light_define_direction(${1:index},${2:dx},${3:dy},${4:dz},${5:col});$0]]></content> <tabTrigger>d3d_light_define_direction</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

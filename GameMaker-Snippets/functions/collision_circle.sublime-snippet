@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[collision_circle(${1:x1},${2:y1},${3:rad},${4:obj},${5:prec},${6:notme});$0]]></content> <tabTrigger>collision_circle</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_delete_buffer(${1:buffer});$0]]></content> <tabTrigger>vertex_delete_buffer</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[texture_set_interpolation_ext(${1:sampler_id},${2:linear});$0]]></content> <tabTrigger>texture_set_interpolation_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_copy(${1:destination},${2:source});$0]]></content> <tabTrigger>ds_grid_copy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

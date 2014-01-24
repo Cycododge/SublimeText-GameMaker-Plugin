@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mp_potential_settings(${1:maxrot},${2:rotstep},${3:ahead},${4:onspot});$0]]></content> <tabTrigger>mp_potential_settings</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

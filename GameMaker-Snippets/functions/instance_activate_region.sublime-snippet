@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_activate_region(${1:left},${2:top},${3:width},${4:height},${5:inside});$0]]></content> <tabTrigger>instance_activate_region</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

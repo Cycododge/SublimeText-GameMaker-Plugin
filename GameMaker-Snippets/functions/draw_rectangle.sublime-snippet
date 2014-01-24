@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_rectangle(${1:x1},${2:y1},${3:x2},${4:y2},${5:outline});$0]]></content> <tabTrigger>draw_rectangle</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

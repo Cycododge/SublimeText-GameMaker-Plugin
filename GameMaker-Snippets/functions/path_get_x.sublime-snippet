@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_get_x(${1:index},${2:pos});$0]]></content> <tabTrigger>path_get_x</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

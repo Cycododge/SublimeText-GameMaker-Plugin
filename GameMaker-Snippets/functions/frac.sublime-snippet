@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[frac(${1:n});$0]]></content> <tabTrigger>frac</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

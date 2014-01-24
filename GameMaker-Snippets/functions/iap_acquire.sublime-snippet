@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[iap_acquire(${1:purchase_id});$0]]></content> <tabTrigger>iap_acquire</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

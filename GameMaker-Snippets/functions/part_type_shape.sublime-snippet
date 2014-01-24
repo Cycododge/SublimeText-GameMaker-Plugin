@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_shape(${1:index},${2:shape});$0]]></content> <tabTrigger>part_type_shape</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_list_sort(${1:id},${2:ascend});$0]]></content> <tabTrigger>ds_list_sort</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

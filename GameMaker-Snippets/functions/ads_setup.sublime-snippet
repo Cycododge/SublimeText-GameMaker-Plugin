@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ads_setup(${1:user_uuid},${2:ad_app_key});$0]]></content> <tabTrigger>ads_setup</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

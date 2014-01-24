@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_free(${1:index});$0]]></content> <tabTrigger>surface_free</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

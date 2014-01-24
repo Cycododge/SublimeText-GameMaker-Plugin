@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_format_add_textcoord();$0]]></content> <tabTrigger>vertex_format_add_textcoord</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

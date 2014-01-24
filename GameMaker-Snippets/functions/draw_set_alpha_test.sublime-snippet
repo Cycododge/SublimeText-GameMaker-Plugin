@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_set_alpha_test(${1:enable});$0]]></content> <tabTrigger>draw_set_alpha_test</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

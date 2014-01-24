@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_upload_score(${1:lb_name},${2:score});$0]]></content> <tabTrigger>steam_upload_score</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[device_is_keypad_open();$0]]></content> <tabTrigger>device_is_keypad_open</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

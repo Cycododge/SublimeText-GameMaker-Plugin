@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[texture_set_interpolation(${1:linear});$0]]></content> <tabTrigger>texture_set_interpolation</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

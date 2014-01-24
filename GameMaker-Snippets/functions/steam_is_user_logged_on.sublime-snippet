@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_is_user_logged_on();$0]]></content> <tabTrigger>steam_is_user_logged_on</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

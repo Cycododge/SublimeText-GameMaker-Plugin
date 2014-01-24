@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[url_open_full(${1:url},${2:target},${3:options});$0]]></content> <tabTrigger>url_open_full</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_delete(${1:fname});$0]]></content> <tabTrigger>file_delete</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

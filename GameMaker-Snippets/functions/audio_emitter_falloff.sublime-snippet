@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_emitter_falloff(${1:emitter},${2:falloff_ref},${3:falloff_max},${4:falloff_factor});$0]]></content> <tabTrigger>audio_emitter_falloff</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

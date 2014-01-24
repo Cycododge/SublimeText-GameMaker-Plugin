@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[facebook_init(${1:appKey});$0]]></content> <tabTrigger>facebook_init</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

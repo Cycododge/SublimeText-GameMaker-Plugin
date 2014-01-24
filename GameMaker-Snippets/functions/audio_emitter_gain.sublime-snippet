@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_emitter_gain(${1:emitter},${2:gain});$0]]></content> <tabTrigger>audio_emitter_gain</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

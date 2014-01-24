@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[abs(${1:val});$0]]></content> <tabTrigger>abs</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

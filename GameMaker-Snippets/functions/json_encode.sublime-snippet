@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[json_encode(${1:map});$0]]></content> <tabTrigger>json_encode</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

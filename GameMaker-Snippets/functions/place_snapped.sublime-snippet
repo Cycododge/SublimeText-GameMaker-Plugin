@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[place_snapped(${1:hsnap},${2:vsnap});$0]]></content> <tabTrigger>place_snapped</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

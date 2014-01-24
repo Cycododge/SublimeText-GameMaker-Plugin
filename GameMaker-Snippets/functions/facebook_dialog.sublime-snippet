@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[facebook_dialog(${1:graph_path},${2:ds_map_parameters},${3:ds_map_return});$0]]></content> <tabTrigger>facebook_dialog</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

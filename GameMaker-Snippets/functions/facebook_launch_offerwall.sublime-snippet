@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[facebook_launch_offerwall(${1:url});$0]]></content> <tabTrigger>facebook_launch_offerwall</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

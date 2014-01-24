@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[playhaven_hide_notification_badge(${1:x},${2:y},${3:w},${4:h},${5:ident});$0]]></content> <tabTrigger>playhaven_hide_notification_badge</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

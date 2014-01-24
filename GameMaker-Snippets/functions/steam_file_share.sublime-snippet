@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_file_share(${1:filename});$0]]></content> <tabTrigger>steam_file_share</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

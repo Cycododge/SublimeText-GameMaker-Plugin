@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[get_login_async(${1:name},${2:password});$0]]></content> <tabTrigger>get_login_async</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

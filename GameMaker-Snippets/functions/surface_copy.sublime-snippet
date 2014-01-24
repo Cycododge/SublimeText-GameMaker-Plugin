@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_copy(${1:destination},${2:x},${3:y},${4:source});$0]]></content> <tabTrigger>surface_copy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

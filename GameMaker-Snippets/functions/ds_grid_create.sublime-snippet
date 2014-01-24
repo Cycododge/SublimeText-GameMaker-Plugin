@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_create(${1:w},${2:h});$0]]></content> <tabTrigger>ds_grid_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

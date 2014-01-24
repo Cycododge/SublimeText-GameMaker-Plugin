@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[make_color_rgb(${1:red},${2:green},${3:blue});$0]]></content> <tabTrigger>make_color_rgb</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

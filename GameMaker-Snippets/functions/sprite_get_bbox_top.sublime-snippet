@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_get_bbox_top(${1:index});$0]]></content> <tabTrigger>sprite_get_bbox_top</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

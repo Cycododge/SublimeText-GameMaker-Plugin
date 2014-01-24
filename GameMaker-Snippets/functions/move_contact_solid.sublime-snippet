@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[move_contact_solid(${1:dir},${2:maxdist});$0]]></content> <tabTrigger>move_contact_solid</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

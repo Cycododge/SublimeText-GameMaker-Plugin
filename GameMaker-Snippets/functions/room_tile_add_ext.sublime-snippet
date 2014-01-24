@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_tile_add_ext(${1:index},${2:back},${3:left},${4:top},${5:width},${6:height},${7:x},${8:y},${9:depth},${10:xscale},${11:yscale},${12:alpha});$0]]></content> <tabTrigger>room_tile_add_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

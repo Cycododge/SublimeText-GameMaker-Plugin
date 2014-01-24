@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_vertex_texture_color(${1:x},${2:y},${3:z},${4:xtex},${5:ytex},${6:col},${7:alpha});$0]]></content> <tabTrigger>d3d_vertex_texture_color</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

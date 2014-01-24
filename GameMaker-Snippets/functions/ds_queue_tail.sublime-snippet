@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_queue_tail(${1:id});$0]]></content> <tabTrigger>ds_queue_tail</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

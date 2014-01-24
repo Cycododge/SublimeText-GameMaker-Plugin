@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_format_add_custom(${1:type},${2:usage});$0]]></content> <tabTrigger>vertex_format_add_custom</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_logout();$0]]></content> <tabTrigger>achievement_logout</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

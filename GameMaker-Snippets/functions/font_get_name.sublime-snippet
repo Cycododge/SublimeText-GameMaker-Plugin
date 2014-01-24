@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[font_get_name(${1:index});$0]]></content> <tabTrigger>font_get_name</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_set_vibration(${1:device},${2:left_motor},${3:right_motor});$0]]></content> <tabTrigger>gamepad_set_vibration</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

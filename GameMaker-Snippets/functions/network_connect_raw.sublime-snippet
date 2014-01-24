@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[network_connect_raw(${1:socket},${2:url},${3:port});$0]]></content> <tabTrigger>network_connect_raw</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

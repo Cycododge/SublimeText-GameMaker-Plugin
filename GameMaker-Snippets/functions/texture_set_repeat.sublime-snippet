@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[texture_set_repeat(${1:repeat});$0]]></content> <tabTrigger>texture_set_repeat</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

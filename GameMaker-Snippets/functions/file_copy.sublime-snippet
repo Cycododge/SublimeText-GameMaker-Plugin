@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_copy(${1:fname},${2:newname});$0]]></content> <tabTrigger>file_copy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

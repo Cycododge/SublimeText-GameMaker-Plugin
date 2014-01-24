@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_copy(${1:perf});$0]]></content> <tabTrigger>instance_copy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

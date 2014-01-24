@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[move_towards_point(${1:x},${2:y},${3:sp});$0]]></content> <tabTrigger>move_towards_point</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

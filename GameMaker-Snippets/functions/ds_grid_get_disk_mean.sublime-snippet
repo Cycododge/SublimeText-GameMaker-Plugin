@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_get_disk_mean(${1:index},${2:xm},${3:ym},${4:r});$0]]></content> <tabTrigger>ds_grid_get_disk_mean</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

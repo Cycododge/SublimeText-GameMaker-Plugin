@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[os_powersave_enable(${1:flag});$0]]></content> <tabTrigger>os_powersave_enable</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

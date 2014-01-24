@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_float3(${1:buffer},${2:float},${3:float},${4:float});$0]]></content> <tabTrigger>vertex_float3</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

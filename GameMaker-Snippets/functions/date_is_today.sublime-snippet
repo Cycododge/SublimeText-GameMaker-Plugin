@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_is_today(${1:date});$0]]></content> <tabTrigger>date_is_today</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

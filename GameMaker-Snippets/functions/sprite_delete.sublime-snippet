@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_delete(${1:index});$0]]></content> <tabTrigger>sprite_delete</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

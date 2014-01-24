@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_particles_count(${1:index});$0]]></content> <tabTrigger>part_particles_count</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

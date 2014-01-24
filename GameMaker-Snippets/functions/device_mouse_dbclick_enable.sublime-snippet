@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[device_mouse_dbclick_enable(${1:bool});$0]]></content> <tabTrigger>device_mouse_dbclick_enable</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

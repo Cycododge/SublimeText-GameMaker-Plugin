@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[object_get_physics(${1:obj});$0]]></content> <tabTrigger>object_get_physics</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

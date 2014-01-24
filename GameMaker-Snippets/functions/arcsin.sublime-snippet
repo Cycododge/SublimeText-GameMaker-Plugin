@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[arcsin(${1:x});$0]]></content> <tabTrigger>arcsin</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

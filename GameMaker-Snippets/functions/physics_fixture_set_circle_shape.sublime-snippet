@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_fixture_set_circle_shape(${1:fixture},${2:rad});$0]]></content> <tabTrigger>physics_fixture_set_circle_shape</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

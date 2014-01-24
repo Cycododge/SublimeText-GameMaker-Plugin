@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[iap_product_details(${1:purchase_id},${2:ds_map});$0]]></content> <tabTrigger>iap_product_details</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

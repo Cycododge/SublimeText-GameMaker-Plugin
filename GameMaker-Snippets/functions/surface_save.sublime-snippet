@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_save(${1:id},${2:fname});$0]]></content> <tabTrigger>surface_save</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

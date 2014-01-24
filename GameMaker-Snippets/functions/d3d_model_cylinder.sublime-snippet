@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_model_cylinder(${1:index},${2:x1},${3:y1},${4:z1},${5:x2},${6:y2},${7:z2},${8:hrepeat},${9:vrepeat},${10:closed},${11:steps});$0]]></content> <tabTrigger>d3d_model_cylinder</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

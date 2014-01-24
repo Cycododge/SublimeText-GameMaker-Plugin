@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[irandom(${1:n});$0]]></content> <tabTrigger>irandom</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

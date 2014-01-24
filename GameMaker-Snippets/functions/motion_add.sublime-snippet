@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[motion_add(${1:dir},${2:speed});$0]]></content> <tabTrigger>motion_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

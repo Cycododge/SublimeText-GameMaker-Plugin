@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_background_stretched(${1:back},${2:x},${3:y},${4:w},${5:h});$0]]></content> <tabTrigger>draw_background_stretched</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

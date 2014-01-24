@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_tell(${2:buffer});$0]]></content> <tabTrigger>buffer_tell</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

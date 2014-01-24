@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[color_get_blue(${1:col});$0]]></content> <tabTrigger>color_get_blue</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

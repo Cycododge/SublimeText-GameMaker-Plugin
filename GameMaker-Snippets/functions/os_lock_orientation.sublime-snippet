@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[os_lock_orientation(${1:flag});$0]]></content> <tabTrigger>os_lock_orientation</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

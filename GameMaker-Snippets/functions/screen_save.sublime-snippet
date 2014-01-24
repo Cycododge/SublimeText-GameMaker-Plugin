@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[screen_save(${1:fname});$0]]></content> <tabTrigger>screen_save</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

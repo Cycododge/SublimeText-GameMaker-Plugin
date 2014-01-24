@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_count(${1:substr},${2:str});$0]]></content> <tabTrigger>string_count</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

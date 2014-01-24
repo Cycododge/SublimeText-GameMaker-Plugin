@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_life(${1:index},${2:life_min},${3:life_max});$0]]></content> <tabTrigger>part_type_life</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

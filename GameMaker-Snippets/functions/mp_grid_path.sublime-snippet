@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mp_grid_path(${1:id},${2:path},${3:xstart},${4:ystart},${5:xgoal},${6:ygoal},${7:allowdiag});$0]]></content> <tabTrigger>mp_grid_path</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

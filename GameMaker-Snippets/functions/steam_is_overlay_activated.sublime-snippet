@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_is_overlay_activated();$0]]></content> <tabTrigger>steam_is_overlay_activated</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

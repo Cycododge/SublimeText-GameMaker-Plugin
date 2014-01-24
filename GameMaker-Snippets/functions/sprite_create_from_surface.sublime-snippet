@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_create_from_surface(${1:index},${2:x},${3:y},${4:w},${5:h},${6:removeback},${7:smooth},${8:xorig},${9:yorig});$0]]></content> <tabTrigger>sprite_create_from_surface</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ads_set_reward_callback(${1:placement});$0]]></content> <tabTrigger>ads_set_reward_callback</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

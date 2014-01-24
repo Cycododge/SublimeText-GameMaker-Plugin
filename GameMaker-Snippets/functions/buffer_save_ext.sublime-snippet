@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_save_ext(${1:buffer},${2:filename},${3:offset},${4:size});$0]]></content> <tabTrigger>buffer_save_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

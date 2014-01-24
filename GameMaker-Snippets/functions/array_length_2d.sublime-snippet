@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[array_length_2d(${1:array},${2:n});$0]]></content> <tabTrigger>array_length_2d</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

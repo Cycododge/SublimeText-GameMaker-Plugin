@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[network_create_server(${1:type},${2:port},${3:max_client});$0]]></content> <tabTrigger>network_create_server</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

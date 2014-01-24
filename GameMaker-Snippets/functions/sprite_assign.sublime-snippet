@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_assign(${1:index},${2:sprite});$0]]></content> <tabTrigger>sprite_assign</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

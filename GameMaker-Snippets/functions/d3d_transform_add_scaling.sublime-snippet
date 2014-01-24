@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_transform_add_scaling(${1:xs},${2:ys},${3:zs});$0]]></content> <tabTrigger>d3d_transform_add_scaling</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

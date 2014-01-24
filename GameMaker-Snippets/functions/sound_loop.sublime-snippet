@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sound_loop(${1:index});$0]]></content> <tabTrigger>sound_loop</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

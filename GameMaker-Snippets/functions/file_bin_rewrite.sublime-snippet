@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_bin_rewrite(${1:fname});$0]]></content> <tabTrigger>file_bin_rewrite</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

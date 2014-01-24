@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_death(${1:index},${2:death_number},${3:death_type});$0]]></content> <tabTrigger>part_type_death</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

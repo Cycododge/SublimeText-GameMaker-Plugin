@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_play_music(${1:index},${2:loop});$0]]></content> <tabTrigger>audio_play_music</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

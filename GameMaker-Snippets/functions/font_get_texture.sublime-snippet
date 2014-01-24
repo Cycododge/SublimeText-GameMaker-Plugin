@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[font_get_texture(${1:font});$0]]></content> <tabTrigger>font_get_texture</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

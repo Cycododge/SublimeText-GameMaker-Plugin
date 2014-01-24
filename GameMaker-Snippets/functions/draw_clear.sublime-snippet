@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_clear(${1:col});$0]]></content> <tabTrigger>draw_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

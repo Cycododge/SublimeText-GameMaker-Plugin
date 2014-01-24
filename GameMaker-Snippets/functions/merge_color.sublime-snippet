@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[merge_color(${1:col1},${2:col2},${3:amount});$0]]></content> <tabTrigger>merge_color</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

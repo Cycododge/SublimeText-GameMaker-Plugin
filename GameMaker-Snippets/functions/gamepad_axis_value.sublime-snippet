@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_axis_value(${1:device},${2:axisIndex});$0]]></content> <tabTrigger>gamepad_axis_value</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

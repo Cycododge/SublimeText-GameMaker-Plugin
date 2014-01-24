@@ -1,0 +1,1 @@
+echo ^<snippet^> ^<content^>^<![CDATA[YoYo_AchievementsAvailable$0]]^>^</content^> ^<tabTrigger^>YoYo_AchievementsAvailable^</tabTrigger^> ^<description^>function^</description^> ^<scope^>source.gml^</scope^> ^</snippet^> > YoYo_AchievementsAvailable.sublime-snippet

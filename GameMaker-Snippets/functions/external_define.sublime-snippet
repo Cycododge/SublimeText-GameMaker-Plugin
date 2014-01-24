@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[external_define(${1:dll},${2:name},${3:calltype},${4:restype},${5:argnumb},${6:argtype[0]},${7:argtype[1]},${8:...});$0]]></content> <tabTrigger>external_define</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

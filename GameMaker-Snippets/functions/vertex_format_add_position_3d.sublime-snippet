@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_format_add_position_3d();$0]]></content> <tabTrigger>vertex_format_add_position_3d</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

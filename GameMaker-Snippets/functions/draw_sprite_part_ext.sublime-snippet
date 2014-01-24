@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_sprite_part_ext(${1:sprite},${2:subimg},${3:left},${4:top},${5:width},${6:height},${7:x},${8:y},${9:xscale},${10:yscale},${11:color},${12:alpha});$0]]></content> <tabTrigger>draw_sprite_part_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

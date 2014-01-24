@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ini_section_exists(${1:section});$0]]></content> <tabTrigger>ini_section_exists</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

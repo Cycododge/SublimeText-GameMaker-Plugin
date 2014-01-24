@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[current_day$0]]></content> <tabTrigger>current_day</tabTrigger> <description>scope:global</description> <scope>source.gml</scope> </snippet>

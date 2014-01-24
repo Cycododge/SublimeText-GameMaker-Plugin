@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_joint_gear_create(${1:inst1},${2:inst2},${3:joint_1},${4:joint_2},${5:ratio});$0]]></content> <tabTrigger>physics_joint_gear_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

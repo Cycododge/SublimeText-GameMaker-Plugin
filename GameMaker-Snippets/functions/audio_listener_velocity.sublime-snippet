@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_listener_velocity(${1:vx},${2:vy},${3:vz});$0]]></content> <tabTrigger>audio_listener_velocity</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

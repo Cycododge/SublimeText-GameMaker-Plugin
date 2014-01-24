@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ads_disable(${1:num});$0]]></content> <tabTrigger>ads_disable</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

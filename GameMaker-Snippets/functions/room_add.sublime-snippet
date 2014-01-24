@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_add();$0]]></content> <tabTrigger>room_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

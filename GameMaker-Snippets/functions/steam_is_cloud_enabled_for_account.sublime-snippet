@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_is_cloud_enabled_for_account();$0]]></content> <tabTrigger>steam_is_cloud_enabled_for_account</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_joint_revolute_create(${1:inst1},${2:inst2},${3:w_anchor_x},${4:w_anchor_y},${5:ang_min_limt},${6:ang_max_limit},${7:ang_limit},${8:max_motor_torque},${9:motor_speed},${10:motor},${11:col});$0]]></content> <tabTrigger>physics_joint_revolute_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

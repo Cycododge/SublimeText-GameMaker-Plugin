@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[external_call(${1:id},${2:args[0...15]});$0]]></content> <tabTrigger>external_call</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

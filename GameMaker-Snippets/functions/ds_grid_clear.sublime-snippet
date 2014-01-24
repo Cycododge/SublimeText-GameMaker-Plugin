@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_clear(${1:index},${2:val});$0]]></content> <tabTrigger>ds_grid_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

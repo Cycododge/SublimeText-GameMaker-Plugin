@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_clear_points(${1:index});$0]]></content> <tabTrigger>path_clear_points</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

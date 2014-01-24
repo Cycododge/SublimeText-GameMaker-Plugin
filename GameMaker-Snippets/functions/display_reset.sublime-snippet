@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[display_reset(${1:aa},${2:vsync});$0]]></content> <tabTrigger>display_reset</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

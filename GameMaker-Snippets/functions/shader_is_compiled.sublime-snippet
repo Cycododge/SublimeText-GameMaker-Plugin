@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[shader_is_compiled(${1:shader});$0]]></content> <tabTrigger>shader_is_compiled</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

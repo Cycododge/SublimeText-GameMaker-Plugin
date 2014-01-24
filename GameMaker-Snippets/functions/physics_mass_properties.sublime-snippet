@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_mass_properties(${1:mass},${2:local_center_x},${3:local_center_y},${4:inertia});$0]]></content> <tabTrigger>physics_mass_properties</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

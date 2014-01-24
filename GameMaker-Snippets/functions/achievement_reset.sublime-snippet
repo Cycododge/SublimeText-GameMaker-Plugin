@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_reset();$0]]></content> <tabTrigger>achievement_reset</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[win8_secondarytile_pin(${1:tile_id},${2:short_name},${3:display_name},${4:cmd_line_args},${5:ds_list_options},${6:image},${7:wide_image},${8:text_col});$0]]></content> <tabTrigger>win8_secondarytile_pin</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

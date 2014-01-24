@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_system_clear(${1:index});$0]]></content> <tabTrigger>part_system_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

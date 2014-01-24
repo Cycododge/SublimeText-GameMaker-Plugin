@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_sprite_tiled(${1:sprite},${2:subimg},${3:x},${4:y});$0]]></content> <tabTrigger>draw_sprite_tiled</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

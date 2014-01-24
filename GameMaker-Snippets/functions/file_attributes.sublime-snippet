@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_attributes(${1:fname},${2:attr});$0]]></content> <tabTrigger>file_attributes</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

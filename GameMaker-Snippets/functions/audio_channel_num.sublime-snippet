@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_channel_num(${1:num});$0]]></content> <tabTrigger>audio_channel_num</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

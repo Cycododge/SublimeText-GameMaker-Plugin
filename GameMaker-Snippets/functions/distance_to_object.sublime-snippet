@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[distance_to_object(${1:obj});$0]]></content> <tabTrigger>distance_to_object</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

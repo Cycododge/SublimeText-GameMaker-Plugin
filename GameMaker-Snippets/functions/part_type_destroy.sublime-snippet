@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_destroy(${1:index});$0]]></content> <tabTrigger>part_type_destroy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

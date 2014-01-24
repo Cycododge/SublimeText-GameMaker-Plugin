@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_end(${1:buffer});$0]]></content> <tabTrigger>vertex_end</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

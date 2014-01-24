@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_joint_distance_create(${1:inst1},${2:inst2},${3:w_anchor1_x},${4:w_anchor1_y},${5:w_anchor2_x},${6:w_anchor2_y},${7:col});$0]]></content> <tabTrigger>physics_joint_distance_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

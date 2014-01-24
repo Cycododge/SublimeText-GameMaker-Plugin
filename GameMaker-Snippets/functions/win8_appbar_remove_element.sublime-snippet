@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[win8_appbar_remove_element(${1:id});$0]]></content> <tabTrigger>win8_appbar_remove_element</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[filename_drive(${1:fname});$0]]></content> <tabTrigger>filename_drive</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

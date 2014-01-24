@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_get_stat_avg_rate(${1:stat_name});$0]]></content> <tabTrigger>steam_get_stat_avg_rate</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

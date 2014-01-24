@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[iap_activate(${1:product_index});$0]]></content> <tabTrigger>iap_activate</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

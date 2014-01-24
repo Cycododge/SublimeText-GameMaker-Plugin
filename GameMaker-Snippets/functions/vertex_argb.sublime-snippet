@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_argb(${1:buffer},${2:a},${3:r},${4:g},${5:b});$0]]></content> <tabTrigger>vertex_argb</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

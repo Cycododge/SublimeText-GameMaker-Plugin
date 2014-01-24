@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[max(${1:val1},${2:val2},${3:...val15});$0]]></content> <tabTrigger>max</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

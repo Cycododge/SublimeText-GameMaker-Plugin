@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_create_buffer();$0]]></content> <tabTrigger>vertex_create_buffer</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

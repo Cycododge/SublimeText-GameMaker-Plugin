@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[is_real(${1:n});$0]]></content> <tabTrigger>is_real</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

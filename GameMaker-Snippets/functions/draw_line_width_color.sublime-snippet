@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_line_width_color(${1:x1},${2:y1},${3:x2},${4:y2},${5:w},${6:col1},${7:col2});$0]]></content> <tabTrigger>draw_line_width_color</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

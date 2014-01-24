@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[tile_layer_hide(${1:depth});$0]]></content> <tabTrigger>tile_layer_hide</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

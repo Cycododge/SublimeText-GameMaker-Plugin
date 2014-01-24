@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[clickable_add(${1:x},${2:y},${3:tpe},${4:url},${5:target},${6:params});$0]]></content> <tabTrigger>clickable_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

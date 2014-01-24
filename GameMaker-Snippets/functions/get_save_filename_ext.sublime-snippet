@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[get_save_filename_ext(${1:filter},${2:fname},${3:directory},${4:caption});$0]]></content> <tabTrigger>get_save_filename_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

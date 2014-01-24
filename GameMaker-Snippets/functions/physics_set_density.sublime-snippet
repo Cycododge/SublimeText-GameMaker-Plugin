@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_set_density(${1:fixture},${2:density});$0]]></content> <tabTrigger>physics_set_density</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

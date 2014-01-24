@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_stack_copy(${1:id},${2:source});$0]]></content> <tabTrigger>ds_stack_copy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

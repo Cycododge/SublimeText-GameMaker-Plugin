@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[clickable_add_ext(${1:x},${2:y},${3:tpe},${4:url},${5:target},${6:params},${7:scale},${8:alpha});$0]]></content> <tabTrigger>clickable_add_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_get_texture(${1:surf});$0]]></content> <tabTrigger>surface_get_texture</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

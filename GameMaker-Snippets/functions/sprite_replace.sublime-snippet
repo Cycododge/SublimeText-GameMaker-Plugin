@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_replace(${1:index},${2:fname},${3:imgnumb},${4:removeback},${5:smooth},${6:xorig},${7:yorig});$0]]></content> <tabTrigger>sprite_replace</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_transform_set_translation(${1:xt},${2:yt},${3:zt});$0]]></content> <tabTrigger>d3d_transform_set_translation</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

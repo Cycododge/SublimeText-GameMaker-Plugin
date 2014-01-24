@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_instance_add(${1:index},${2:x},${3:y},${4:obj});$0]]></content> <tabTrigger>room_instance_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

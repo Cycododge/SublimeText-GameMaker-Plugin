@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_system_automatic_update(${1:index},${2:automatic});$0]]></content> <tabTrigger>part_system_automatic_update</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

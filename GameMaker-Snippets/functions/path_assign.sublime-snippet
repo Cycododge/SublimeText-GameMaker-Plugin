@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_assign(${1:index},${2:path});$0]]></content> <tabTrigger>path_assign</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

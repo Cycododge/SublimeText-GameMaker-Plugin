@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_set_stat_float(${1:stat_name},${2:value});$0]]></content> <tabTrigger>steam_set_stat_float</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

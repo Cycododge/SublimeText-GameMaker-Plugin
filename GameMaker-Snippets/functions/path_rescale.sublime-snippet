@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_rescale(${1:index},${2:xscale},${3:yscale});$0]]></content> <tabTrigger>path_rescale</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

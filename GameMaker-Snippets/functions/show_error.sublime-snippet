@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[show_error(${1:str},${2:abort});$0]]></content> <tabTrigger>show_error</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_set_projection(${1:xfrom},${2:yfrom},${3:zfrom},${4:xto},${5:yto},${6:zto},${7:xup},${8:yup},${9:zup});$0]]></content> <tabTrigger>d3d_set_projection</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[clamp(${1:val},${2:min},${3:max});$0]]></content> <tabTrigger>clamp</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

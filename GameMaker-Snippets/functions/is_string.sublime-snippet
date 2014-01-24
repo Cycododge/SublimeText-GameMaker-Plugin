@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[is_string(${1:n});$0]]></content> <tabTrigger>is_string</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

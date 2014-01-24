@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[choose(${1:val0},${2:val1},${3:val2},${4:...val15});$0]]></content> <tabTrigger>choose</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

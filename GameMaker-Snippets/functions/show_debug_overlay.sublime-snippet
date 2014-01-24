@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[show_debug_overlay(${1:enable});$0]]></content> <tabTrigger>show_debug_overlay</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_save_strip(${1:index},${2:filename});$0]]></content> <tabTrigger>sprite_save_strip</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

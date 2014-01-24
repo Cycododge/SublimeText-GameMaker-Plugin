@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_base64_encode(${1:buffer},${2:offset},${3:size});$0]]></content> <tabTrigger>buffer_base64_encode</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_collision_mask(${1:index},${2:sepmasks},${3:bboxmode},${4:bbleft},${5:bbtop},${6:bbright},${7:bbbottom},${8:kind},${9:tolerance});$0]]></content> <tabTrigger>sprite_collision_mask</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

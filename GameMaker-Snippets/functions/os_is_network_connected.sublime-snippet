@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[os_is_network_connected();$0]]></content> <tabTrigger>os_is_network_connected</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

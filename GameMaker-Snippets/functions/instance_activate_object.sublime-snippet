@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_activate_object(${1:obj});$0]]></content> <tabTrigger>instance_activate_object</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

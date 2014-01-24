@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[radtodeg(${1:rad});$0]]></content> <tabTrigger>radtodeg</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

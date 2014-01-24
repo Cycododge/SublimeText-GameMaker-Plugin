@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[shader_set_uniform_matrix(${1:handle});$0]]></content> <tabTrigger>shader_set_uniform_matrix</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

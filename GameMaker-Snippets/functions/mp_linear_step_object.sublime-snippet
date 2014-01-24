@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mp_linear_step_object(${1:xgoal},${2:ygoal},${3:stepsize},${4:obj});$0]]></content> <tabTrigger>mp_linear_step_object</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

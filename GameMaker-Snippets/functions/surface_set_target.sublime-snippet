@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_set_target(${1:index});$0]]></content> <tabTrigger>surface_set_target</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

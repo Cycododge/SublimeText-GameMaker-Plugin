@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_add_grid_region(${1:index},${2:source},${3:x1},${4:y1},${5:x2},${6:y2},${7:xpos},${8:ypos});$0]]></content> <tabTrigger>ds_grid_add_grid_region</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

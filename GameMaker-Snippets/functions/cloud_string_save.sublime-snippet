@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[cloud_string_save(${1:string},${2:description});$0]]></content> <tabTrigger>cloud_string_save</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

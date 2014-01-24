@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_music_gain(${1:volume},${2:time});$0]]></content> <tabTrigger>audio_music_gain</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

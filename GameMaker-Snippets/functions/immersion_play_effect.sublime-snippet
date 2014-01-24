@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[immersion_play_effect(${1:effect});$0]]></content> <tabTrigger>immersion_play_effect</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

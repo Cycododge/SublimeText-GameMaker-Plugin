@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[analytics_event_ext(${1:string},${2:string_param0},${3:value0},${4:string_parm1},${5:value1},${6:...});$0]]></content> <tabTrigger>analytics_event_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

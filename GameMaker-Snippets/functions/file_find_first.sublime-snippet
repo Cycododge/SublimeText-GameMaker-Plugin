@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_find_first(${1:mask},${2:attr});$0]]></content> <tabTrigger>file_find_first</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

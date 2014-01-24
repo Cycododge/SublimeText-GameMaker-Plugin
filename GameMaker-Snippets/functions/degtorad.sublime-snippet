@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[degtorad(${1:deg});$0]]></content> <tabTrigger>degtorad</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

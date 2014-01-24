@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[lengthdir_x(${1:len},${2:dir});$0]]></content> <tabTrigger>lengthdir_x</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_file_write_file(${1:steam_filename},${2:local_filename});$0]]></content> <tabTrigger>steam_file_write_file</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

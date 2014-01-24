@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_rotate(${1:index},${2:angle});$0]]></content> <tabTrigger>path_rotate</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

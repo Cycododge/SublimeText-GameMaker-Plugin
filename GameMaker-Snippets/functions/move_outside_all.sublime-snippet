@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[move_outside_all(${1:dir},${2:maxdist});$0]]></content> <tabTrigger>move_outside_all</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

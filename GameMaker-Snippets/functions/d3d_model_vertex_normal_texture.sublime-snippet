@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_model_vertex_normal_texture(${1:index},${2:x},${3:y},${4:z},${5:nx},${6:ny},${7:nz},${8:xtex},${9:ytex});$0]]></content> <tabTrigger>d3d_model_vertex_normal_texture</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

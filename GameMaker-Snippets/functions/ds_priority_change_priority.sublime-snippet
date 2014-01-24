@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_priority_change_priority(${1:id},${2:val},${3:priority});$0]]></content> <tabTrigger>ds_priority_change_priority</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

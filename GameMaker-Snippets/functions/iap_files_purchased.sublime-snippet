@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[iap_files_purchased();$0]]></content> <tabTrigger>iap_files_purchased</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

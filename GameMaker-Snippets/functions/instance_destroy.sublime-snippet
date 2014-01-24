@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_destroy();$0]]></content> <tabTrigger>instance_destroy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

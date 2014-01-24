@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[facebook_login(${1:permissions});$0]]></content> <tabTrigger>facebook_login</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

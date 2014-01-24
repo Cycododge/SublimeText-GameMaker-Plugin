@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_texcoord(${1:buffer},${2:u},${3:v});$0]]></content> <tabTrigger>vertex_texcoord</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

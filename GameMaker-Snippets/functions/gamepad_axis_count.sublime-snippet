@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_axis_count(${1:device});$0]]></content> <tabTrigger>gamepad_axis_count</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

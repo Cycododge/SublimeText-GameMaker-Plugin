@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[get_integer(${1:str},${2:def});$0]]></content> <tabTrigger>get_integer</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

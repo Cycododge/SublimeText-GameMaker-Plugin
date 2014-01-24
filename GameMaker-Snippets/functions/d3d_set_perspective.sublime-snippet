@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_set_perspective(${1:enable});$0]]></content> <tabTrigger>d3d_set_perspective</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

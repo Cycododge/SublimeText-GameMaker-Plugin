@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_size(${1:index},${2:size_min},${3:size_max},${4:size_incr},${5:size_wiggle});$0]]></content> <tabTrigger>part_type_size</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

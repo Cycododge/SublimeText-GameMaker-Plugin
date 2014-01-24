@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[keyboard_get_numlock();$0]]></content> <tabTrigger>keyboard_get_numlock</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

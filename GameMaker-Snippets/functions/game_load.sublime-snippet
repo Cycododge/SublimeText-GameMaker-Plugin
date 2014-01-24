@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[game_load(${1:filename});$0]]></content> <tabTrigger>game_load</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

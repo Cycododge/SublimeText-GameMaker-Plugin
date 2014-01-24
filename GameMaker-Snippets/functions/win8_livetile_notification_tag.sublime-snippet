@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[win8_livetile_notification_tag(${1:tag});$0]]></content> <tabTrigger>win8_livetile_notification_tag</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

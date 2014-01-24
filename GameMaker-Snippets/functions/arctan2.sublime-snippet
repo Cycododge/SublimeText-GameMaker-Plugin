@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[arctan2(${1:y},${2:x});$0]]></content> <tabTrigger>arctan2</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

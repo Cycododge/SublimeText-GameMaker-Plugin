@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_bin_seek($1:fname},$2:pos});$0]]></content> <tabTrigger>file_bin_seek</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

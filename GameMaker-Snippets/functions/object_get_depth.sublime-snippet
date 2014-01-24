@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[object_get_depth(${1:obj});$0]]></content> <tabTrigger>object_get_depth</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

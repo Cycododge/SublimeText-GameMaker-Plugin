@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_resume_music();$0]]></content> <tabTrigger>audio_resume_music</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

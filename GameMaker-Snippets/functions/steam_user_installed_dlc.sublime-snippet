@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_user_installed_dlc(${1:dlc_id});$0]]></content> <tabTrigger>steam_user_installed_dlc</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

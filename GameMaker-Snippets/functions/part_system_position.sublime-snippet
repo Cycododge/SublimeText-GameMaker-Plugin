@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_system_position(${1:index},${2:x},${3:y});$0]]></content> <tabTrigger>part_system_position</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

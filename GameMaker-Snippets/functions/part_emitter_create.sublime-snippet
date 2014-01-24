@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_emitter_create(${1:ps});$0]]></content> <tabTrigger>part_emitter_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

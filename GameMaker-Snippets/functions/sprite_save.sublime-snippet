@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_save(${1:index},${2:subimg},${3:fname});$0]]></content> <tabTrigger>sprite_save</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[lerp(${1:a},${2:b},${3:amt});$0]]></content> <tabTrigger>lerp</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_is_connected(${1:numb});$0]]></content> <tabTrigger>gamepad_is_connected</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

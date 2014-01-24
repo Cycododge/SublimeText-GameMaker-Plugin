@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_load_friends();$0]]></content> <tabTrigger>achievement_load_friends</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

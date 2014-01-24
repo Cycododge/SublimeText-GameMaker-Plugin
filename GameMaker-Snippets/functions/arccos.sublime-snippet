@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[arccos(${1:x});$0]]></content> <tabTrigger>arccos</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

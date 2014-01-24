@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[shader_enable_corner_id(${1:enable});$0]]></content> <tabTrigger>shader_enable_corner_id</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

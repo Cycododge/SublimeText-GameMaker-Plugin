@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[facebook_graph_request(${1:graph_path},${2:httpMethod},${3:ds_map_parameters},${4:ds_map_return});$0]]></content> <tabTrigger>facebook_graph_request</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

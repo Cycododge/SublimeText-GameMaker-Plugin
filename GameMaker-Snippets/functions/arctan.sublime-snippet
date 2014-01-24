@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[arctan(${1:x});$0]]></content> <tabTrigger>arctan</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

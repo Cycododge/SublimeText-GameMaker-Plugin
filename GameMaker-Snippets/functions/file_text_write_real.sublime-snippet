@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_text_write_real(${1:fileid},${2:val});$0]]></content> <tabTrigger>file_text_write_real</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

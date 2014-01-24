@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_send_challenge(${1:playerid},${2:challengeid},${3:score},${4:type},${5:message});$0]]></content> <tabTrigger>achievement_send_challenge</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_set_precision(${1:index},${2:prec});$0]]></content> <tabTrigger>path_set_precision</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

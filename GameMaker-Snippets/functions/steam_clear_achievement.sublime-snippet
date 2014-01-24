@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_clear_achievement(${1:ach_name});$0]]></content> <tabTrigger>steam_clear_achievement</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

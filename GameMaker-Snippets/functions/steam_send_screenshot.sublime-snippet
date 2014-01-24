@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_send_screenshot(${1:filename},${2:width},${3:height});$0]]></content> <tabTrigger>steam_send_screenshot</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

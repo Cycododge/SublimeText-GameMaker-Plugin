@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[directory_create(${1:dname});$0]]></content> <tabTrigger>directory_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

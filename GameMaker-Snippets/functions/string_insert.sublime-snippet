@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_insert(${1:substr},${2:str},${3:index});$0]]></content> <tabTrigger>string_insert</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[event_perform_object(${1:obj},${2:type},${3:numb});$0]]></content> <tabTrigger>event_perform_object</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

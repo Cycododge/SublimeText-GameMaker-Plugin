@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_get_pic(${1:char});$0]]></content> <tabTrigger>achievement_get_pic</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

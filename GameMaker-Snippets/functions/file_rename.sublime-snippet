@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_rename(${1:oldname},${2:newname});$0]]></content> <tabTrigger>file_rename</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

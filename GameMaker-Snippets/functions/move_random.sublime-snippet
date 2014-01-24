@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[move_random(${1:hsnap},${2:vsnap});$0]]></content> <tabTrigger>move_random</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

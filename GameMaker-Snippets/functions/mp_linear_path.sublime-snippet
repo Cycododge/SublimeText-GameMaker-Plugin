@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mp_linear_path(${1:path},${2:xgoal},${3:ygoal},${4:stepsize},${5:checkall});$0]]></content> <tabTrigger>mp_linear_path</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[base64_decode(${1:string});$0]]></content> <tabTrigger>base64_decode</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

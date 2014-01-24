@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_add(${1:fname},${2:imgnumb},${3:removeback},${4:smooth},${5:xorig},${6:yorig});$0]]></content> <tabTrigger>sprite_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

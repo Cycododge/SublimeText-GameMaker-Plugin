@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[tile_set_depth(${1:index},${2:depth});$0]]></content> <tabTrigger>tile_set_depth</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_triangle_color(${1:x1},${2:y1},${3:x2},${4:y2},${5:x3},${6:y3},${7:col1},${8:col2},${9:col3},${10:outline});$0]]></content> <tabTrigger>draw_triangle_color</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

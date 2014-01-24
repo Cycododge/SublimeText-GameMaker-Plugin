@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_model_destroy(${1:index});$0]]></content> <tabTrigger>d3d_model_destroy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

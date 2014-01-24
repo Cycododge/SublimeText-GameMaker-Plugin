@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_set_byte_at(${1:str},${2:pos},${3:byte});$0]]></content> <tabTrigger>string_set_byte_at</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

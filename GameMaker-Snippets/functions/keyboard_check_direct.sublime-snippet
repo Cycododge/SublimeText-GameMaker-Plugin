@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[keyboard_check_direct(${1:key});$0]]></content> <tabTrigger>keyboard_check_direct</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

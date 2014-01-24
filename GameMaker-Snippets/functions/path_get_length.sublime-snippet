@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_get_length(${1:index});$0]]></content> <tabTrigger>path_get_length</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

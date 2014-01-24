@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[place_meeting(${1:x},${2:y},${3:ob});$0]]></content> <tabTrigger>place_meeting</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

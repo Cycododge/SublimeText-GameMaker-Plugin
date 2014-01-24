@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_is_supported();$0]]></content> <tabTrigger>gamepad_is_supported</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

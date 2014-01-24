@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[effect_create_above(${1:kind},${2:x},${3:y},${4:size},${5:color});$0]]></content> <tabTrigger>effect_create_above</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

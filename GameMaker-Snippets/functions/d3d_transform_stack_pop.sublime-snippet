@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[d3d_transform_stack_pop();$0]]></content> <tabTrigger>d3d_transform_stack_pop</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_priority_create();$0]]></content> <tabTrigger>ds_priority_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

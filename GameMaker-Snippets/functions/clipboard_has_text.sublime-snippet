@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[clipboard_has_text();$0]]></content> <tabTrigger>clipboard_has_text</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

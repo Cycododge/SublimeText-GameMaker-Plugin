@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_remove_fixture(${1:fixture});$0]]></content> <tabTrigger>physics_remove_fixture</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

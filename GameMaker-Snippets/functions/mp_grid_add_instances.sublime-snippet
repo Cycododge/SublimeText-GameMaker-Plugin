@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mp_grid_add_instances(${1:id},${2:obj},${3:prec});$0]]></content> <tabTrigger>mp_grid_add_instances</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

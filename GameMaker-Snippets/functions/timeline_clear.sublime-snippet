@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[timeline_clear();$0]]></content> <tabTrigger>timeline_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

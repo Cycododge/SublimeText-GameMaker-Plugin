@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_delete(${1:str},${2:index},${3:count});$0]]></content> <tabTrigger>string_delete</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

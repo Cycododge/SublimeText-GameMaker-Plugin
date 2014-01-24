@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[vertex_format_end();$0]]></content> <tabTrigger>vertex_format_end</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[file_text_writeln(${1:fileid});$0]]></content> <tabTrigger>file_text_writeln</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

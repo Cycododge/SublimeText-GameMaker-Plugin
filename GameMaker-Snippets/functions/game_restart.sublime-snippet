@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[game_restart();$0]]></content> <tabTrigger>game_restart</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[url_get_domain();$0]]></content> <tabTrigger>url_get_domain</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

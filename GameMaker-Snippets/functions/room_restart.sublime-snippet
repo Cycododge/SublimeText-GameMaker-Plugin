@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_restart();$0]]></content> <tabTrigger>room_restart</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

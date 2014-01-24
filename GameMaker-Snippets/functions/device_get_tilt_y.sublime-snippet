@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[device_get_tilt_y();$0]]></content> <tabTrigger>device_get_tilt_y</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

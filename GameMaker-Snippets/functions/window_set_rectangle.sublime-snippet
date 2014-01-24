@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[window_set_rectangle(${1:x},${2:y},${3:w},${4:h});$0]]></content> <tabTrigger>window_set_rectangle</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

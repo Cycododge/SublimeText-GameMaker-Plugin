@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[exp(${1:n});$0]]></content> <tabTrigger>exp</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

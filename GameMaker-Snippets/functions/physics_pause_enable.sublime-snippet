@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_pause_enable(${1:flag});$0]]></content> <tabTrigger>physics_pause_enable</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

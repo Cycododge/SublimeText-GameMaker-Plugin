@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mp_grid_create(${1:xstart},${2:ystart},${3:hcells},${4:vcells},${5:cellwidth},${6:cellheight}):$0]]></content> <tabTrigger>mp_grid_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

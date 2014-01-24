@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_stack_top(${1:id});$0]]></content> <tabTrigger>ds_stack_top</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

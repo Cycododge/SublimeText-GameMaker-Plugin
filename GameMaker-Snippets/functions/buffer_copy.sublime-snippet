@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_copy(${1:src_buffer},${2:src_offset},${3:size},${4:dest_buffer},${5:dest_offset});$0]]></content> <tabTrigger>buffer_copy</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

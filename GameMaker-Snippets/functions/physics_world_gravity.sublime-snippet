@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_world_gravity(${1:xg},${2:yg});$0]]></content> <tabTrigger>physics_world_gravity</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

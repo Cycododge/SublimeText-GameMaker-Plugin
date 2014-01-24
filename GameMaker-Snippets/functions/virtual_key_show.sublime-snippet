@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[virtual_key_show(${1:index});$0]]></content> <tabTrigger>virtual_key_show</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

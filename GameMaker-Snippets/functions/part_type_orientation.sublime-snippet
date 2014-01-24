@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_orientation(${1:ind},${2:ang_min},${3:ang_max},${4:ang_incr},${5:ang_wiggle},${6:ang_relative});$0]]></content> <tabTrigger>part_type_orientation</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

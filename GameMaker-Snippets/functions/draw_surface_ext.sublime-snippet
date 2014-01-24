@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_surface_ext(${1:index},${2:x},${3:y},${4:xscale},${5:yscale},${6:rot},${7:color},${8:alpha});$0]]></content> <tabTrigger>draw_surface_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

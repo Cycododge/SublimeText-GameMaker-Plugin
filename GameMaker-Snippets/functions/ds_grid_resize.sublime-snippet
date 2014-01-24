@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_resize(${1:index},${2:w},${3:h});$0]]></content> <tabTrigger>ds_grid_resize</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[win8_search_disable();$0]]></content> <tabTrigger>win8_search_disable</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

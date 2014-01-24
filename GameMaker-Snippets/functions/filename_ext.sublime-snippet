@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[filename_ext(${1:fname});$0]]></content> <tabTrigger>filename_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

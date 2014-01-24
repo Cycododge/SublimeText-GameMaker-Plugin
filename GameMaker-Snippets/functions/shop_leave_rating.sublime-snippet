@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[shop_leave_rating(${1:text},${2:yes_string},${3:no_string},${4:url});$0]]></content> <tabTrigger>shop_leave_rating</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

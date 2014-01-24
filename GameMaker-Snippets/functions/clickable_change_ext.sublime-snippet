@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[clickable_change_ext(${1:index},${2:x},${3:y},${4:tpe},${5:alpha},${6:scale});$0]]></content> <tabTrigger>clickable_change_ext</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

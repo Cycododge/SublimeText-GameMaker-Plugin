@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[tile_get_top(${1:index});$0]]></content> <tabTrigger>tile_get_top</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

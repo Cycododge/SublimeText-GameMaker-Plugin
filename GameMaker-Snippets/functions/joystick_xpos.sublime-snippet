@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[joystick_xpos(${1:id});$0]]></content> <tabTrigger>joystick_xpos</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

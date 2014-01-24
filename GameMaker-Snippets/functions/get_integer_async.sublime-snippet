@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[get_integer_async(${1:string},${2:default});$0]]></content> <tabTrigger>get_integer_async</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

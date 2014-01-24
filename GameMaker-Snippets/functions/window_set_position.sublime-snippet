@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[window_set_position(${1:x},${2:y});$0]]></content> <tabTrigger>window_set_position</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

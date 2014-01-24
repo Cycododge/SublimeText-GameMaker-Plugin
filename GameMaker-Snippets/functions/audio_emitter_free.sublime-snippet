@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[audio_emitter_free(${1:emitter});$0]]></content> <tabTrigger>audio_emitter_free</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

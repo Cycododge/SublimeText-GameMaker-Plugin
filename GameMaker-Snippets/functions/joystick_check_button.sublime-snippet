@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[joystick_check_button(${1:id},${2:numb});$0]]></content> <tabTrigger>joystick_check_button</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

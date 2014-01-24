@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_sort(${1:index},${2:column},${3:ascending});$0]]></content> <tabTrigger>ds_grid_sort</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

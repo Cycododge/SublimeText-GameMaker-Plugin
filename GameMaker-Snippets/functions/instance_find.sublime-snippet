@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[instance_find(${1:obj},${2:n});$0]]></content> <tabTrigger>instance_find</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

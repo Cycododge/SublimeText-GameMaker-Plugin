@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[window_mouse_get_y();$0]]></content> <tabTrigger>window_mouse_get_y</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

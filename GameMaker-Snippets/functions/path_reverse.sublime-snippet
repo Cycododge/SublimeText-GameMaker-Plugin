@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_reverse(${1:index});$0]]></content> <tabTrigger>path_reverse</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

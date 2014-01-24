@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_set_friction(${1:fixture},${2:friction});$0]]></content> <tabTrigger>physics_set_friction</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_reset_all_stats();$0]]></content> <tabTrigger>steam_reset_all_stats</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

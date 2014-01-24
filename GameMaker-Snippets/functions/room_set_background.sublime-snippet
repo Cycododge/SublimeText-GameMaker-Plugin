@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_set_background(${1:index},${2:bind},${3:vis},${4:fore},${5:back},${6:x},${7:y},${8:htiled},${9:vtiled},${10:hspeed},${11:vspeed},${12:alpha});$0]]></content> <tabTrigger>room_set_background</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

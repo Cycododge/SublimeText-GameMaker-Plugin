@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[gamepad_button_count(${1:device});$0]]></content> <tabTrigger>gamepad_button_count</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

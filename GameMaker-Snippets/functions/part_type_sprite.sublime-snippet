@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_sprite(${1:index},${2:sprite},${3:animate},${4:stretch},${5:random});$0]]></content> <tabTrigger>part_type_sprite</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

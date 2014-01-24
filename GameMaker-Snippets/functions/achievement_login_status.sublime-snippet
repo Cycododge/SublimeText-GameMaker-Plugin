@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_login_status();$0]]></content> <tabTrigger>achievement_login_status</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

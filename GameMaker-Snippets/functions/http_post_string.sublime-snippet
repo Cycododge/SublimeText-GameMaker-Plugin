@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[http_post_string(${1:url},${2:string});$0]]></content> <tabTrigger>http_post_string</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_upper(${1:string});$0]]></content> <tabTrigger>string_upper</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

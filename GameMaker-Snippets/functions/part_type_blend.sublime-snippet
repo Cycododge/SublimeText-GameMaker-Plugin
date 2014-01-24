@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_blend(${1:index},${2:additive});$0]]></content> <tabTrigger>part_type_blend</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

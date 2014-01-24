@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[network_send_raw(${1:socket},${2:buffer},${3:size});$0]]></content> <tabTrigger>network_send_raw</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

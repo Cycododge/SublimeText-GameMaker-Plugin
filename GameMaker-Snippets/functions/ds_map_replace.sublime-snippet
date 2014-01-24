@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_map_replace(${1:id},${2:key},${3:value});$0]]></content> <tabTrigger>ds_map_replace</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

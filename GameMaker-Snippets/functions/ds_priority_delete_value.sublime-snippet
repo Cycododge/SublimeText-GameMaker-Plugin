@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_priority_delete_value(${1:id},${2:val});$0]]></content> <tabTrigger>ds_priority_delete_value</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

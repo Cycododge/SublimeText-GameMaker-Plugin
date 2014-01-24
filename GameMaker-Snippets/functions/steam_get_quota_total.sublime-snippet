@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_get_quota_total();$0]]></content> <tabTrigger>steam_get_quota_total</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

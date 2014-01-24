@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_date_of(${1:date});$0]]></content> <tabTrigger>date_date_of</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

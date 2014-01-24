@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[surface_create(${1:w},${2:h});$0]]></content> <tabTrigger>surface_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

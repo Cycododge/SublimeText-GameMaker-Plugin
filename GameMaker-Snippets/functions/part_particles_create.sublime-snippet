@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_particles_create(${1:index},${2:x},${3:y},${4:parttype},${5:number});$0]]></content> <tabTrigger>part_particles_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

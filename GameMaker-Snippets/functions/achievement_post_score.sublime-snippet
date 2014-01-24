@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[achievement_post_score(${1:name},${2:score});$0]]></content> <tabTrigger>achievement_post_score</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_assign(${1:index},${2:room});$0]]></content> <tabTrigger>room_assign</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

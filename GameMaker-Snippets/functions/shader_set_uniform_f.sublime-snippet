@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[shader_set_uniform_f(${1:handle},${2:value1},${3:[,value2,value3,value4]});$0]]></content> <tabTrigger>shader_set_uniform_f</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

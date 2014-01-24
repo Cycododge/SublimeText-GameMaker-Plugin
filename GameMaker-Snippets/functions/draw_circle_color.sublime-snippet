@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_circle_color(${1:x},${2:y},${3:r},${4:col1},${5:col2},${6:outline});$0]]></content> <tabTrigger>draw_circle_color</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

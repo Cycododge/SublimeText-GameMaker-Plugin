@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ln(${1:n});$0]]></content> <tabTrigger>ln</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

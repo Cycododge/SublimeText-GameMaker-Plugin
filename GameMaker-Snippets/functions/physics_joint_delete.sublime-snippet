@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_joint_delete(${1:joint});$0]]></content> <tabTrigger>physics_joint_delete</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

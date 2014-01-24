@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[tile_set_scale(${1:index},${2:xscale},${3:yscale});$0]]></content> <tabTrigger>tile_set_scale</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[font_replace(${1:index},${2:name},${3:size},${4:bold},${5:italic},${6:first},${7:last});$0]]></content> <tabTrigger>font_replace</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

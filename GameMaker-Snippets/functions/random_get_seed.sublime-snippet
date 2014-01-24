@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[random_get_seed();$0]]></content> <tabTrigger>random_get_seed</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

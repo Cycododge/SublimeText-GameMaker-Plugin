@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_days_in_month(${1:date});$0]]></content> <tabTrigger>date_days_in_month</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

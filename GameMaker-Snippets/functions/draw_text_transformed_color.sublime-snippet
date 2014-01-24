@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_text_transformed_color(${1:x},${2:y},${3:string},${4:sep},${5:w},${6:xscale},${7:yscale},${8:angle},${9:c1},${10:c2},${11:c3},${12:c4},${13:alpha});$0]]></content> <tabTrigger>draw_text_transformed_color</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

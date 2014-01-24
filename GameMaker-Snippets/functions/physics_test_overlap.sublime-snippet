@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_test_overlap(${1:xpos},${2:ypos},${3:angle},${4:obj});$0]]></content> <tabTrigger>physics_test_overlap</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

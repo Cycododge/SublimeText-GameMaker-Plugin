@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[device_mouse_y(${1:device});$0]]></content> <tabTrigger>device_mouse_y</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

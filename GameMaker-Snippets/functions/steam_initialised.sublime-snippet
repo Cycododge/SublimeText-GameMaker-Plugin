@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_initialised();$0]]></content> <tabTrigger>steam_initialised</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

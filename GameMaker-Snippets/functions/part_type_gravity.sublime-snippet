@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_gravity(${1:index},${2:grav_amount},${3:grav_direction});$0]]></content> <tabTrigger>part_type_gravity</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

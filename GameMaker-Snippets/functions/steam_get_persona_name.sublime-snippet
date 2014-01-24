@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[steam_get_persona_name();$0]]></content> <tabTrigger>steam_get_persona_name</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

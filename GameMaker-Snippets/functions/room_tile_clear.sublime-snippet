@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_tile_clear(${1:index});$0]]></content> <tabTrigger>room_tile_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

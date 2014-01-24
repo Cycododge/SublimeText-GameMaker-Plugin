@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_type_direction(${1:index},${2:dir_min},${3:dir_max},${4:dir_incr},${5:dir_wiggle});$0]]></content> <tabTrigger>part_type_direction</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

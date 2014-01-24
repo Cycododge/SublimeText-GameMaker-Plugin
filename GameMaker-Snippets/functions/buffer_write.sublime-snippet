@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_write(${1:buffer},${2:type},${3:value});$0]]></content> <tabTrigger>buffer_write</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

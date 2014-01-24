@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[part_emitter_stream(${1:ps},${2:index},${3:parttype},${4:number});$0]]></content> <tabTrigger>part_emitter_stream</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

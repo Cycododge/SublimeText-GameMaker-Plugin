@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[move_bounce_all(${1:adv});$0]]></content> <tabTrigger>move_bounce_all</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

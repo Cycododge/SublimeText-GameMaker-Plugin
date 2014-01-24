@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_apply_impulse(${1:xpos},${2:ypos},${3:ximpulse},${4:yimpulse});$0]]></content> <tabTrigger>physics_apply_impulse</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

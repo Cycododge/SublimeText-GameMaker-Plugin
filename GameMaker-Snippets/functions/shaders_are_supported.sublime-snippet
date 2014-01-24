@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[shaders_are_supported(${1:shader});$0]]></content> <tabTrigger>shaders_are_supported</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

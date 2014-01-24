@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[window_set_caption(${1:caption});$0]]></content> <tabTrigger>window_set_caption</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

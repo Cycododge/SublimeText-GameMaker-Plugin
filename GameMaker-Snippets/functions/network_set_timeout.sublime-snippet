@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[network_set_timeout(${1:socket},${2:read_timeout},${3:write_timeout});$0]]></content> <tabTrigger>network_set_timeout</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

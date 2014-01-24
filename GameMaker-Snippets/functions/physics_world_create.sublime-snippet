@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_world_create(${1:pixeltometrescale});$0]]></content> <tabTrigger>physics_world_create</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

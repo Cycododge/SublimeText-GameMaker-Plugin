@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[room_previous(${1:numb});$0]]></content> <tabTrigger>room_previous</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

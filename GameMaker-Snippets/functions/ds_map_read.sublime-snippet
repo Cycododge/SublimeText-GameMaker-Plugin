@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_map_read(${1:id},${2:str});$0]]></content> <tabTrigger>ds_map_read</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

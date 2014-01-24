@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[physics_fixture_add_point(${1:fixture},${2:xpos},${3:ypos});$0]]></content> <tabTrigger>physics_fixture_add_point</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

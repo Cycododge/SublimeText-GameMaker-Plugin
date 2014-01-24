@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[io_clear();$0]]></content> <tabTrigger>io_clear</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

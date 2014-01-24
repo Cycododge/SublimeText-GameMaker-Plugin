@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[show_message_async(${1:string});$0]]></content> <tabTrigger>show_message_async</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

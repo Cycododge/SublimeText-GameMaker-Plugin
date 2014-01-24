@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[show_message(${1:string});$0]]></content> <tabTrigger>show_message</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

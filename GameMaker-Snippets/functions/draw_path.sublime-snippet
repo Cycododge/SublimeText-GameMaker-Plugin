@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[draw_path(${1:path},${2:x},${3:y},${4:absolute});$0]]></content> <tabTrigger>draw_path</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

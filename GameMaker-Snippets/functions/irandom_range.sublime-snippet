@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[irandom_range(${1:n1},${2:n2});$0]]></content> <tabTrigger>irandom_range</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

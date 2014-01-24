@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_days_in_year(${1:date});$0]]></content> <tabTrigger>date_days_in_year</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

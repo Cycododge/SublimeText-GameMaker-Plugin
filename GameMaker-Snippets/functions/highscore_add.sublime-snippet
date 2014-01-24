@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[highscore_add(${1:str},${2:numb});$0]]></content> <tabTrigger>highscore_add</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

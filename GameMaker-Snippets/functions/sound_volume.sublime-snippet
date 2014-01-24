@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sound_volume(${1:index},${2:value});$0]]></content> <tabTrigger>sound_volume</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

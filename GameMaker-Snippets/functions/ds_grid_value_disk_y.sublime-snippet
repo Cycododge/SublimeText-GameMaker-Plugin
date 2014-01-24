@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ds_grid_value_disk_y(${1:index},${2:xm},${3:ym},${4:r},${5:val});$0]]></content> <tabTrigger>ds_grid_value_disk_y</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

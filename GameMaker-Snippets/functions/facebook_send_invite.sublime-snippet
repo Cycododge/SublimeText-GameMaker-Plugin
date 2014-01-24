@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[facebook_send_invite(${1:titlestring},${2:msg},${3:picture_url},${4:redirect_url});$0]]></content> <tabTrigger>facebook_send_invite</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

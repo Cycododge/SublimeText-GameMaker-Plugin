@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[string_letters(${1:string});$0]]></content> <tabTrigger>string_letters</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

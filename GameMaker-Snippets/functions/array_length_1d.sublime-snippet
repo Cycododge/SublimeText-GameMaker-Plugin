@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[array_length_1d(${1:array});$0]]></content> <tabTrigger>array_length_1d</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

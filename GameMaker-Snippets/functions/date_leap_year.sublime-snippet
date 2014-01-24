@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[date_leap_year(${1:date});$0]]></content> <tabTrigger>date_leap_year</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

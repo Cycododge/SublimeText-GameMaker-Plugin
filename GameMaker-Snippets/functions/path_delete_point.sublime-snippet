@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_delete_point(${1:index},${2:n});$0]]></content> <tabTrigger>path_delete_point</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

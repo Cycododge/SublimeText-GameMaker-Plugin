@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[buffer_poke(${1:buffer},${2:offset},${3:type},${4:value});$0]]></content> <tabTrigger>buffer_poke</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

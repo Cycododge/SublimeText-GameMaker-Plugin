@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[winphone_tile_wide_content(${1:string},${2:index});$0]]></content> <tabTrigger>winphone_tile_wide_content</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[sprite_get_tpe(${1:sprite},${2:index});$0]]></content> <tabTrigger>sprite_get_tpe</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

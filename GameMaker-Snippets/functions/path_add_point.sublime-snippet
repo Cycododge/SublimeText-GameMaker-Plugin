@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[path_add_point(${1:index},${2:x},${3:y},${4:speed});$0]]></content> <tabTrigger>path_add_point</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

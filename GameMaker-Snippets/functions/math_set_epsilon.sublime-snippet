@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[math_set_epsilon(${1:epsilon});$0]]></content> <tabTrigger>math_set_epsilon</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

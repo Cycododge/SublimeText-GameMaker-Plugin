@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[mouse_check_button_released(${1:numb});$0]]></content> <tabTrigger>mouse_check_button_released</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

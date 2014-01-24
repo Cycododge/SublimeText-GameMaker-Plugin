@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[winphone_tile_title(${1:title});$0]]></content> <tabTrigger>winphone_tile_title</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 

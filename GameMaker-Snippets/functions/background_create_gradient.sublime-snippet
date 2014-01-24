@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[background_create_gradient(${1:w},${2:h},${3:color1},${4:color2},${5:kind});$0]]></content> <tabTrigger>background_create_gradient</tabTrigger> <description>function</description> <scope>source.gml</scope> </snippet> 
